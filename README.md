@@ -1,2 +1,2 @@
 # Capstone Project
-This repository is a demonstration of how to create a GitHub repository and properly set it up
+This repository is a machine learning project using python libraries and 3rd party API's
